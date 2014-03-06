@@ -1,0 +1,10 @@
+{
+    "name": "Foundation grid component",
+    "version": "5.2.0",
+	"ignore": [
+        ".gitignore",
+        "bower.json",
+        "README.md",
+		".git"
+    ],
+}
