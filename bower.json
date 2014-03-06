@@ -5,6 +5,6 @@
         ".gitignore",
         "bower.json",
         "README.md",
-		".git"
-    ],
+        ".git"
+    ]
 }
